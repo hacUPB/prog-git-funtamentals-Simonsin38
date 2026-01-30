@@ -8,7 +8,17 @@ Id.: 000579174
 
 ### **Descripción de la Actividad:**
 
+En este repositorio hay algunos comandos básicos acerca de los repositorios tanto locales como remotos de git, además de un apoyo con imagenes para un mejor entendimiento.
+
 Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
+
+## Como clonar un proyecto
+Es tan sencillo como ubicarse en una carpeta que no sea un repositorio, utilizar el comando "git clone (link del repositorio)" y darle al enter .👍
+
+## Tabla de Contenidos
+[Comandos de Navegación](./docs/uso_consola.md)  
+[Repositorio Local](./docs/repositorio_local.md)  
+[Repositorio Remoto](./docs/repositorio_remoto.md)
 
 
 ## Instrucciones:
@@ -80,3 +90,5 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 7. **Entrega:**
     - Sube los cambios de tu proyecto al repositorio remoto de GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+
