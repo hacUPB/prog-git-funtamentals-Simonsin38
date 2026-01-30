@@ -16,9 +16,10 @@ Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una se
 Es tan sencillo como ubicarse en una carpeta que no sea un repositorio, utilizar el comando "git clone (link del repositorio)" y darle al enter .👍
 
 ## Tabla de Contenidos
-[Comandos de Navegación](./docs/uso_consola.md)  
-[Repositorio Local](./docs/repositorio_local.md)  
-[Repositorio Remoto](./docs/repositorio_remoto.md)
+- [Comandos de Navegación](./docs/uso_consola.md)  
+- [Repositorio Local](./docs/repositorio_local.md)  
+- [Repositorio Remoto](./docs/repositorio_remoto.md)  
+- [Gitignore](./docs/Archivo_gitignore.md)
 
 
 ## Instrucciones:
